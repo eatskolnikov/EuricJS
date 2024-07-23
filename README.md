@@ -4,6 +4,8 @@ Inspirado en los tweets de @EuricSanti. Haces referencia al script y lo que pong
 
 Gracias a Melvyn Perez por ser mi inspiración [en este tweet](https://twitter.com/melvynperez/status/1815471101914611930). 
 
+Gracias a [Roberto por avisarme de este proyecto](https://x.com/MinagorriRob/status/1815529012908679628). 
+
 ## Ejemplo
 
 ```html
