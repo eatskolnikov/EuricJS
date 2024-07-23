@@ -2,7 +2,7 @@
 
 Inspirado en los tweets de @EuricSanti. Haces referencia al script y lo que pongas dentro de las etiquetas <Euric></Euric> va a ser malinterpretado y reescrito de la forma mas conspiranoica e ignorante posible.
 
-Gracias a Melvin Perez por ser mi inspiración [en este tweet](https://twitter.com/melvynperez/status/1815471101914611930). 
+Gracias a Melvyn Perez por ser mi inspiración [en este tweet](https://twitter.com/melvynperez/status/1815471101914611930). 
 
 ## Ejemplo
 
