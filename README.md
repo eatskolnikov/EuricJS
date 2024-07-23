@@ -4,7 +4,14 @@ Inspirado en los tweets de @EuricSanti. Haces referencia al script y lo que pong
 
 Gracias a Melvin Perez por ser mi inspiración [en este tweet](https://twitter.com/melvynperez/status/1815471101914611930). 
 
-![before](imagenes/before.png)
+## Ejemplo
+
+```html
+<Euric>
+  Especialistas de la NASA estudian una posible fusión de galaxias
+</Euric>
+```
+
 ![After](imagenes/after.png)
 
 ## Instalación
